@@ -10,7 +10,7 @@
 * Data visualization via ggplot2:
   <ul> 1. Rendered a vertical bar chart displaying frequency (measured in days of the week), in which arson occurred. </ul>
   <ul> 2. Created a background of map tiles.</ul>
-  <ul> 3. Added point data (Long, Lat) of where arson occurred on the map.</ul>
+  <ul> 3. Added point data (Long, Lat) of locations where arson happened on the map.</ul>
 * The project provided valuable insights into forecasting criminal activities, that may result in improving policies and BPD decision-making.
 
 ##### Check [repository](https://github.com/richdait/Extra-Credit---Crime-in-Boston) for a detailed project description and associated files.
