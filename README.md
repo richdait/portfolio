@@ -13,7 +13,7 @@
   <ul> 3. Added point data (Long, Lat) of where arson occurred on the map.</ul>
 * The project provided valuable insights into forecasting criminal activities, that may result in improving policies and BPD decision-making.
 
-#### (Link to [repository](https://github.com/richdait/Extra-Credit---Crime-in-Boston))
+##### (Link to [repository](https://github.com/richdait/Extra-Credit---Crime-in-Boston))
 
 # Web Development
 ***
@@ -26,4 +26,4 @@
 <ul> 3. Social media icons at the bottom instantly direct users to relevant and helpful third-party sites. </ul>
 * The project allowed me to re-familiarze myself with Github, hone my skills in markdown syntax, create a Bootstrap-based responsive website and most importantly, showcase the burgeoning food scene in Seattle.
 
-#### (Link to [repository](https://github.com/richdait/richdait.github.io))
+##### (Link to [repository](https://github.com/richdait/richdait.github.io))
