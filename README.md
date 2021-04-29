@@ -20,6 +20,6 @@
 * Designed and personalized the grayscale Boostrap-based template to align with the aesthetic and theme - food photography.
 * User interface (UI) design:
 <ul> 1. CSS and HTML codes were modified to facilitate usability and improve site content organization. </ul>
-<ul> 2. Tabs allow the user quick and easy access to information and specific areas of the website.
-<ul> 3. Social media icons at the bottom instantly direct users to relevant and helpful third-party sites.
+<ul> 2. Tabs allow the user quick and easy access to information and specific areas of the website. </ul>
+<ul> 3. Social media icons at the bottom instantly direct users to relevant and helpful third-party sites. </ul>
 * The project allowed me to re-familiarze myself with Github, hone my skills in markdown syntax, create a Boostrap-based responsive website and illustrate my passion for food photography.  
