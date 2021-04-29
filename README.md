@@ -13,24 +13,29 @@
   <ul> 3. Added point data (Long, Lat) of where arson occurred on the map.</ul>
 * The project provided valuable insights into forecasting criminal activities, that may result in improving policies and BPD decision-making.
 
-##### (Link to [repository](https://github.com/richdait/Extra-Credit---Crime-in-Boston))
+##### Check [repository](https://github.com/richdait/Extra-Credit---Crime-in-Boston) for a detailed project description and associated files.
 
 # GIS Data Analysis
 ***
-## Project 3: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)
-*
+## Project 3: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)**
+* Created a geographic, interactive digital application (i.e., smart dashboard), illustrating a real-world problem and critically analyzing its implications on society.
+<ul> <li> Provided template reformatted to suit the data and theme of the project.</li> </ul>
+* Users are able to interact with the dashboard by clicking on a census tract polygon, which displays an associated poverty percentage.
+* Procured shapefile from Seattle Open Data Portal and converted it to GeoJSON via QGIS.
+* Icons from Font Awesome direct user to relevant sites and clickable links provide readers further info regarding poverty.
+* The final project not only allowed me to research a topic I am passionate about, but give me the platform to refine my programming and GIS skills.
 
-##### Link to [respository](https://github.com/richdait/Final_Project_Poverty)
+##### Check [respository](https://github.com/richdait/Final_Project_Poverty) for a detailed project description and associated files.
 
 # Web Development
 ***
 ## Project 7: **[Hangry in Seattle](https://richdait.github.io/)**
 * Produced a fully-functional, responsive website using Github pages.
-* Designed and personalized the grayscale Bootstrap-based template to align with the aesthetic and theme - food photography.
+* Personalized the grayscale Bootstrap-based template to align with the aesthetic and theme - food photography.
 * User interface (UI) design:
 <ul> 1. CSS and HTML codes were modified to facilitate usability and improve site content organization. </ul>
 <ul> 2. Tabs allow the user quick and easy access to information and specific areas of the website. </ul>
 <ul> 3. Social media icons at the bottom instantly direct users to relevant and helpful third-party sites. </ul>
 * The project allowed me to re-familiarze myself with Github, hone my skills in markdown syntax, create a Bootstrap-based responsive website and most importantly, showcase the burgeoning food scene in Seattle.
 
-##### (Link to [repository](https://github.com/richdait/richdait.github.io))
+##### Check [repository](https://github.com/richdait/richdait.github.io) for a detailed project description and associated files.
