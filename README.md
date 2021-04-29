@@ -12,3 +12,10 @@
   <ul> 2. Created a background of map tiles.</ul>
   <ul> 3. Added point data (Long, Lat) of where arson occurred on the map.</ul>
 * The project provided valuable insights into forecasting criminal activities, that may result in improving policies and BPD decision-making.
+
+# Geographic Information Systems Data Analysis
+***
+## Project 7: **[Hangry in Seattle](https://richdait.github.io/)**
+* Produced a fully-functional, responsive website using Github pages.
+* Utilized the grayscale Boostrap-based template to design and personalize a responsive, mobile-first website.
+* CSS and HTML codes were modified to facilitate user interaction and align with the aethestic and theme - food photography.
