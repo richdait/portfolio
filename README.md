@@ -7,4 +7,4 @@
 * Data wrangling functions via dplyr package:
   <ul> 1. Grouped by incident no. </ul>
   <ul> 2. Filtered the data frame to only include offense type "ARSON" </ul>
-  3. Selected six columns for display.</li> </ul>
+  <ul> 3. Selected six columns for display. </ul>
