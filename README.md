@@ -10,4 +10,4 @@
 * Data visualization via ggplot2:
   <ul> 1. Rendered a vertical bar chart displaying frequency (measured in days of the week) in which arson occurred. </ul>
   <ul> 2. Created a background of map tiles.</ul>
-  <ul> 3. Added the locations (Long, Lat) of where arson occurred on the map.</ul>
+  <ul> 3. Added point data (Long, Lat) of where arson occurred on the map.</ul>
