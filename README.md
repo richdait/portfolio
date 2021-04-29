@@ -1,6 +1,6 @@
 # Data Science
 ***
-## Project 1: **[Report on Crime in Boston](https://richdait.github.io/Extra-Credit---Crime-in-Boston/)**
+## Project 1: **[Report on Crime in Boston](https://richdait.github.io/Extra-Credit---Crime-in-Boston/)** (Link to [repository](https://github.com/richdait/Extra-Credit---Crime-in-Boston))
 * Created a report using time series data with a minimum of 1000 observations for crime in Boston.
 * Produced code with an R script file, then, inserted it into an R markdown document to display the findings and analysis.
 * Data wrangling functions via dplyr package:
@@ -15,7 +15,7 @@
 
 # Web Development
 ***
-## Project 7: **[Hangry in Seattle](https://richdait.github.io/)**
+## Project 7: **[Hangry in Seattle](https://richdait.github.io/)**(Link to [repository](https://github.com/richdait/richdait.github.io))
 * Produced a fully-functional, responsive website using Github pages.
 * Designed and personalized the grayscale Bootstrap-based template to align with the aesthetic and theme - food photography.
 * User interface (UI) design:
