@@ -5,6 +5,6 @@
 * Produced code with an R script file, then, inserted it in a R markdown document to display the findings and analysis.
 * The following R packages are used: shiny, dplyr, ggplot2 and ggmap.
 * Data wrangling functions via dplyr package:
-  <ul> 1. Grouped by incident no.
-  2. Filtered the data frame to only include offense type "ARSON"
+  <ul> <li> 1. Grouped by incident no.
+  <li> 2. Filtered the data frame to only include offense type "ARSON"
   3. Selected six columns for display.</li> </ul>
