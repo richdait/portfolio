@@ -15,6 +15,13 @@
 
 ##### (Link to [repository](https://github.com/richdait/Extra-Credit---Crime-in-Boston))
 
+# GIS Data Analysis
+***
+## Project 3: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)
+*
+
+##### Link to [respository](https://github.com/richdait/Final_Project_Poverty)
+
 # Web Development
 ***
 ## Project 7: **[Hangry in Seattle](https://richdait.github.io/)**
