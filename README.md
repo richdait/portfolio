@@ -13,7 +13,7 @@
   <ul> 3. Added point data (Long, Lat) of where arson occurred on the map.</ul>
 * The project provided valuable insights into forecasting criminal activities, that may result in improving policies and BPD decision-making.
 
-# Geographic Information Systems Data Analysis
+# Web Development
 ***
 ## Project 7: **[Hangry in Seattle](https://richdait.github.io/)**
 * Produced a fully-functional, responsive website using Github pages.
