@@ -19,7 +19,7 @@
 ***
 ## Project 3: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)**
 * Created a geographic, interactive digital application (i.e., smart dashboard), illustrating a real-world problem and critically analyzing its implications on society.
-<ul> <li> Provided template reformatted to suit the data and theme of the project. </li> </ul>
+<li> Provided template reformatted to suit the data and theme of the project. </li>
 * Users are able to interact with the dashboard by clicking on a census tract polygon, which displays an associated poverty percentage.
 * Procured shapefile from Seattle Open Data Portal and converted it to GeoJSON via QGIS.
 * Icons from Font Awesome direct user to relevant sites and clickable links provide readers further info regarding poverty.
