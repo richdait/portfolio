@@ -16,11 +16,13 @@
 
 # Web Development
 ***
-## Project 7: **[Hangry in Seattle](https://richdait.github.io/)** #### (Link to [repository](https://github.com/richdait/richdait.github.io))
+## Project 7: **[Hangry in Seattle](https://richdait.github.io/)**
 * Produced a fully-functional, responsive website using Github pages.
 * Designed and personalized the grayscale Bootstrap-based template to align with the aesthetic and theme - food photography.
 * User interface (UI) design:
 <ul> 1. CSS and HTML codes were modified to facilitate usability and improve site content organization. </ul>
 <ul> 2. Tabs allow the user quick and easy access to information and specific areas of the website. </ul>
 <ul> 3. Social media icons at the bottom instantly direct users to relevant and helpful third-party sites. </ul>
-* The project allowed me to re-familiarze myself with Github, hone my skills in markdown syntax, create a Bootstrap-based responsive website and most importantly, showcase the burgeoning food scene in Seattle.  
+* The project allowed me to re-familiarze myself with Github, hone my skills in markdown syntax, create a Bootstrap-based responsive website and most importantly, showcase the burgeoning food scene in Seattle.
+
+#### (Link to [repository](https://github.com/richdait/richdait.github.io))
