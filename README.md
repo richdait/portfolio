@@ -5,4 +5,4 @@
 * Produced code with an R script file, then, inserted it in a R markdown document to display the findings and analysis.
 * The following R packages are used: shiny, dplyr, ggplot2 and ggmap.
 * Data wrangling via dplyr package:
-  <ul> grouped by incident no., filtered by offense type and selected particular columns for display.</ul>
+  <ul> <li> grouped by incident no., filtered by offense type and selected particular columns for display.</li> </ul>
