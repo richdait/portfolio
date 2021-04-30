@@ -47,7 +47,7 @@
 * Users are able to interact with the site via 3 radio buttons of basemaps and 4 overlays.
 * One thing I learned from this project is that something as simple as implementing UI controls, increases user engagement.
 ##### Check [respository](https://github.com/richdait/Socioeconomic_Index_and_Seahawks_Tile_Sets) for a detailed project description and associated files.
-## Project 9: **[Interactive Web Application of the Number of Airports in the U.S.](https://richdait.github.io/lab4_WebMapApp/)
+## Project 9: **[Interactive Web Application of the Number of Airports in the U.S.](https://richdait.github.io/lab4_WebMapApp/)**
 * Created an interactive web map, depicting the number of airports within each state, according to pre-defined data intervals and whether the airport itself, contains an air traffic control tower.
 * OpenStreetMap basemap was used and GeoJSON data loaded via the Leaflet ajax plugin.
 * User is able click on airplane icons courtesy of Font Awesome to determine the abbreviated name of an air traffic control tower. 
