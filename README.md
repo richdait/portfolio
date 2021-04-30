@@ -5,7 +5,7 @@
 * Performed a t-test to determine whether the difference between the treatment and control groups were statistical significant. Also obtained the associated p-value.
 * Measured the effectiveness of subsidies had on school attendance using DiD (i.e., difference in trends for T and C groups) simple and muliple regression analysis in R.
 * Data transformation/manipulation via dplyr:
-* <li> a </li>
+  <li> a </li>
 
 ## Project 2: **[Report on Crime in Boston](https://richdait.github.io/Extra-Credit---Crime-in-Boston/)**
 * Created a report via time series data with a minimum of 1000 observations for crime in Boston.
