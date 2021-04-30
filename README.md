@@ -26,7 +26,7 @@
 
 ##### Check [respository](https://github.com/richdait/Final_Project_Poverty) for a detailed project description and associated files.
 
-# Web Development
+# Web Development and Design
 ***
 ## Project 7: **[Hangry in Seattle](https://richdait.github.io/)**
 * Produced a fully-functional, responsive website using Github pages.
@@ -39,5 +39,11 @@
 * The project allowed me to re-familiarze myself with Github, hone my skills in markdown syntax, create a Bootstrap-based responsive website and most importantly, showcase the burgeoning food scene in Seattle.
 
 ##### Check [repository](https://github.com/richdait/richdait.github.io) for a detailed project description and associated files.
-
-## Project 8: [Web Design and Tile Generation](https://richdait.github.io/Socioeconomic_Index_and_Seahawks_Tile_Sets/index.html)
+***
+## Project 8: **[Web Design and Tile Generation](https://richdait.github.io/Socioeconomic_Index_and_Seahawks_Tile_Sets/index.html)**
+* Created 4 tile sets using various basemaps illustrating a geographic phenomena and theme of choice.
+* Basemap of Seattle was designed via MapBox Studio.
+* Generated and read map tiles through QGIS.
+* Users are able to interact with the site via 3 radio buttons of basemaps and 4 grouped overlays.
+* One thing I learned from this project is that something as simple as implementing UI controls, increases user engagement.
+##### Check [respository](https://github.com/richdait/Socioeconomic_Index_and_Seahawks_Tile_Sets) for a detailed project description and associated files.
