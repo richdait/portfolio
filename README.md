@@ -39,3 +39,5 @@
 * The project allowed me to re-familiarze myself with Github, hone my skills in markdown syntax, create a Bootstrap-based responsive website and most importantly, showcase the burgeoning food scene in Seattle.
 
 ##### Check [repository](https://github.com/richdait/richdait.github.io) for a detailed project description and associated files.
+
+## Project 8: [Web Design and Tile Generation](https://richdait.github.io/Socioeconomic_Index_and_Seahawks_Tile_Sets/index.html)
