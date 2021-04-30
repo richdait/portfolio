@@ -21,7 +21,7 @@
 * Created an interactive digital application, illustrating a real-world problem and critically analyzing its implications on society.
 * Users are able to interact with the dashboard by clicking on a census tract polygon, which displays an associated poverty percentage.
 * Procured shapefile from Seattle Open Data Portal and converted it to GeoJSON via QGIS.
-* Icons from Font Awesome direct user to relevant sites and clickable links provide readers further info regarding poverty.
+* Icons from Font Awesome direct users to relevant sites and clickable links provide readers further info regarding poverty.
 * The final project not only allowed me to research a topic I am passionate about, but give me the platform to refine my programming and GIS skills.
 
 ##### Check [respository](https://github.com/richdait/Final_Project_Poverty) for a detailed project description and associated files.
