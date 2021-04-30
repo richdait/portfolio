@@ -44,6 +44,6 @@
 * Created 4 tile sets using various basemaps illustrating a geographic phenomena and theme of choice.
 * Basemap of Seattle was designed via MapBox Studio.
 * Generated and read map tiles through QGIS.
-* Users are able to interact with the site via 3 radio buttons of basemaps and 4 grouped overlays.
+* Users are able to interact with the site via 3 radio buttons of basemaps and 4 overlays.
 * One thing I learned from this project is that something as simple as implementing UI controls, increases user engagement.
 ##### Check [respository](https://github.com/richdait/Socioeconomic_Index_and_Seahawks_Tile_Sets) for a detailed project description and associated files.
