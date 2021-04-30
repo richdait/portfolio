@@ -52,6 +52,6 @@
 * OpenStreetMap basemap was used and GeoJSON data loaded via the Leaflet ajax plugin.
 * User is able click on airplane icons courtesy of Font Awesome to determine the abbreviated name of an air traffic control tower. 
 * Fundamental cartographic elements such as a legend and scale are included.
-* The project taught me that choosing the right color scheme is important as it brings to light, the highest and lowest values to show stark differences. Additionally, it makes the map more appealing and raises possible questions with the user.
+* The project taught me that choosing the right color scheme is important as it brings to light, the highest and lowest values in the dataset. Additionally, it makes the map more appealing and raises possible questions with the user.
 
 ##### Check [repository](https://github.com/richdait/lab4_WebMapApp) for a detailed project description and associated files.
