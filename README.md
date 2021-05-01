@@ -5,7 +5,10 @@
 * Performed a t-test to determine whether the difference between the treatment and control groups was statistical significant. Also obtained the associated p-value.
 * Measured the effectiveness of subsidies had on school attendance using DiD (i.e., difference in trends for T and C groups) simple and muliple regression analysis in R.
 * Data transformation/manipulation via dplyr:
-  <ul> <li> a </li></ul>
+  <ul> <li> Created new variables via the mutate function. </li>
+  <li> Selected rows via filter() to equal desired conditions. </li>
+  <li> Utilized the group_by function to controlled and treated groups before and after Progresa was implemented. </li>
+  <li> Produced a new dataframe to summarize the average school attendance values between T and C groups.</li> </ul>
 
 ## Project 2: **[Report on Crime in Boston](https://richdait.github.io/Extra-Credit---Crime-in-Boston/)**
 * Created a report via time series data with a minimum of 1000 observations for crime in Boston.
