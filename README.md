@@ -1,6 +1,6 @@
 # Data Science
 ***
-## Project 1: **[The Impact of the Progresa Program Using Causal Inference and Multiple Regression Analysis](https://richdait.github.io/Causality_Regression_Progresa/)**
+## Project 1: **[The Impact of the Progresa Program Using Causal Inference and Linear Regression Analysis](https://richdait.github.io/Causality_Regression_Progresa/)**
 * Estimated the social impact of the government assistance program - Progresa - had on the welfare of poor, rural households in Mexico.
 * Performed a t-test to determine whether the difference between the treatment and control groups were statistical significant. Also obtained the associated p-value.
 * Measured the effectiveness of subsidies had on school attendance using DiD (i.e., difference in trends for T and C groups) simple and muliple regression analysis in R.
