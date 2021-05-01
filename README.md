@@ -7,8 +7,8 @@
 * Data transformation/manipulation via dplyr:
   <ul> <li> Created new variables via the mutate function. </li>
   <li> Selected rows via filter() to equal desired conditions. </li>
-  <li> Utilized the group_by function to controlled and treated groups before and after Progresa was implemented. </li>
-  <li> Produced a new dataframe to summarize the average school attendance values between T and C groups.</li> </ul>
+  <li> Utilized the group_by function to compare the controlled and treated groups, before and after the program was implemented. </li>
+  <li> Produced a new dataframe to summarize the average school attendance of participants.</li> </ul>
 
 ## Project 2: **[Report on Crime in Boston](https://richdait.github.io/Extra-Credit---Crime-in-Boston/)**
 * Created a report via time series data with a minimum of 1000 observations for crime in Boston.
