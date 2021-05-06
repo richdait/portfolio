@@ -25,7 +25,7 @@
 
 ##### Check [repository](https://github.com/richdait/Extra-Credit---Crime-in-Boston) for a detailed project description and associated files.
 
-# GIS Data Analysis
+# GIS Data Analysis and Spatial Statistics
 ***
 ## Project 3: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)**
 * Created an interactive digital application, illustrating a real-world problem and critically analyzing its implications on society.
