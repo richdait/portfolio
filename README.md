@@ -1,18 +1,7 @@
 # Data Science
 ***
-## Project 1: **[The Impact of the Progresa Program Using Causal Inference and Linear Regression Analysis](https://richdait.github.io/Causality_Regression_Progresa/)**
-* Estimated the social impact of the government assistance program - Progresa - on the welfare of poor, rural households in Mexico.
-* Performed a t-test to determine whether the difference between the treatment and control groups is statistical significant. Also obtained the associated p-value.
-* Measured the effectiveness of subsidies had on school attendance using DiD (i.e., difference in trends for T and C groups) simple and muliple regression analysis in R.
-* Data transformation/manipulation via dplyr:
-  <ul> <li> Created new variables via the mutate function. </li>
-  <li> Selected rows via filter() to equal desired conditions. </li>
-  <li> Utilized the group_by function to compare the controlled and treated groups, before and after the program was implemented. </li>
-  <li> Produced a new dataframe to summarize the average school attendance of the participants for both the treatment and control groups, before and after the implementation of the Progresa program.</li> </ul>
-  
-##### Check [respository](https://github.com/richdait/Causality_Regression_Progresa) for a detailed project description and associated files.
 
-## Project 2: **[Report on Crime in Boston](https://richdait.github.io/Extra-Credit---Crime-in-Boston/)**
+## Project 1: **[Report on Crime in Boston](https://richdait.github.io/Extra-Credit---Crime-in-Boston/)**
 * Created a report via time series data with a minimum of 1000 observations for crime in Boston.
 * Inserted R script with code into an R markdown document to display findings and analysis.
 * Data wrangling functions via dplyr package:
@@ -27,7 +16,7 @@
 
 ##### Check [respository](https://github.com/richdait/Extra-Credit---Crime-in-Boston) for a detailed project description and associated files.
 
-## Project 3: **[Food Accessibility in Washington State: You Are What You Eat](https://richiea7uwinfo.shinyapps.io/Food_Accessibility/)**
+## Project 2: **[Food Accessibility in Washington State: You Are What You Eat](https://richiea7uwinfo.shinyapps.io/Food_Accessibility/)**
 * Investigated whether or not socio-economic factors such as income, distance and transportation have an impact on accessibility to fresh and nutritious food in Washington State.
 * Extracted, manipulated and wrangled data from the United States Department of Agriculture Economic Research Service website.
 * Identified direct and indirect stakeholders.
@@ -42,9 +31,8 @@
 
 # GIS Data Analysis and/or Spatial Statistics
 ***
-## Project 4: **[Analyzing the Relationship Between Average Life Expectancy and Environmental Factors in the United States Using Multiple Regression and Geographically Weighted Analysis via ArcGIS Pro]()**
 
-## Project 5: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)**
+## Project 3: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)**
 * Created an interactive digital application, illustrating a real-world problem and critically analyzing its implications on society.
 * Users are able to interact with the dashboard by clicking on a census tract polygon, which displays an associated poverty percentage.
 * Procured shapefile from Seattle Open Data Portal and converted it to GeoJSON via QGIS.
@@ -53,7 +41,7 @@
 
 ##### Check [respository](https://github.com/richdait/Final_Project_Poverty) for a detailed project description and associated files.
 
-## Project 6: **[The Geography and Seasonality of Crime in Seattle, WA](https://arcg.is/H0DL5)**
+## Project 4: **[The Geography and Seasonality of Crime in Seattle, WA](https://arcg.is/H0DL5)**
 * Collaborated with two other geography researchers to conduct a spatial temporal analysis of crime in Seattle, WA.
 * Utilized ArcGIS Pro to produce compelling optimized hot spot analysis maps.
 * Published and narrated our findings using the flexible and easy-to-build features of ArcGIS StoryMaps.
@@ -67,7 +55,7 @@
 
 # Web Development and Design
 ***
-## Project 6: **[Hangry in Seattle](https://richdait.github.io/)**
+## Project 5: **[Hangry in Seattle](https://richdait.github.io/)**
 * Produced a fully-functional, responsive website using Github pages.
 * Personalized the grayscale Bootstrap-based template to align with the aesthetic and theme - food photography.
 * User interface (UI) design:
@@ -79,14 +67,15 @@
 
 ##### Check [repository](https://github.com/richdait/richdait.github.io) for a detailed project description and associated files.
 
-## Project 7: **[Web Design and Tile Generation](https://richdait.github.io/Socioeconomic_Index_and_Seahawks_Tile_Sets/index.html)**
+## Project 6: **[Web Design and Tile Generation](https://richdait.github.io/Socioeconomic_Index_and_Seahawks_Tile_Sets/index.html)**
 * Created 4 tile sets using various basemaps illustrating a geographic phenomena and theme of choice.
 * Basemap of Seattle was designed via MapBox Studio.
 * Generated and read map tiles through QGIS.
 * Users are able to interact with the site via 3 radio buttons of basemaps and 4 overlays.
 * One thing I learned from this project is that something as simple as implementing UI controls, increases user engagement.
 ##### Check [respository](https://github.com/richdait/Socioeconomic_Index_and_Seahawks_Tile_Sets) for a detailed project description and associated files.
-## Project 8: **[Interactive Web Application of the Number of Airports in the U.S.](https://richdait.github.io/lab4_WebMapApp/)**
+
+## Project 7: **[Interactive Web Application of the Number of Airports in the U.S.](https://richdait.github.io/lab4_WebMapApp/)**
 * Created an interactive web map, depicting the number of airports within each state, according to pre-defined data intervals and whether the airport itself, contains an air traffic control tower.
 * OpenStreetMap basemap was used and GeoJSON data loaded via the Leaflet ajax plugin.
 * User is able click on airplane icons courtesy of Font Awesome to determine the abbreviated name of an air traffic control tower. 
