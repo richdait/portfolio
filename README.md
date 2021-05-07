@@ -38,10 +38,12 @@
 
 ## Project 4: **[The Geography and Seasonality of Crime in Seattle, WA](https://arcg.is/H0DL5)**
 * Collaborated with two other geography researchers to conduct a spatial temporal analysis of crime in Seattle, WA.
+* Utilized ArcGIS Pro to produce maps and data visualizations.
+* Published and narrated our compelling findings using the flexible and easy-to-build features of ArcGIS StoryMaps.
 
 # Web Development and Design
 ***
-## Project 7: **[Hangry in Seattle](https://richdait.github.io/)**
+## Project 5: **[Hangry in Seattle](https://richdait.github.io/)**
 * Produced a fully-functional, responsive website using Github pages.
 * Personalized the grayscale Bootstrap-based template to align with the aesthetic and theme - food photography.
 * User interface (UI) design:
@@ -53,14 +55,14 @@
 
 ##### Check [repository](https://github.com/richdait/richdait.github.io) for a detailed project description and associated files.
 
-## Project 8: **[Web Design and Tile Generation](https://richdait.github.io/Socioeconomic_Index_and_Seahawks_Tile_Sets/index.html)**
+## Project 6: **[Web Design and Tile Generation](https://richdait.github.io/Socioeconomic_Index_and_Seahawks_Tile_Sets/index.html)**
 * Created 4 tile sets using various basemaps illustrating a geographic phenomena and theme of choice.
 * Basemap of Seattle was designed via MapBox Studio.
 * Generated and read map tiles through QGIS.
 * Users are able to interact with the site via 3 radio buttons of basemaps and 4 overlays.
 * One thing I learned from this project is that something as simple as implementing UI controls, increases user engagement.
 ##### Check [respository](https://github.com/richdait/Socioeconomic_Index_and_Seahawks_Tile_Sets) for a detailed project description and associated files.
-## Project 9: **[Interactive Web Application of the Number of Airports in the U.S.](https://richdait.github.io/lab4_WebMapApp/)**
+## Project 7: **[Interactive Web Application of the Number of Airports in the U.S.](https://richdait.github.io/lab4_WebMapApp/)**
 * Created an interactive web map, depicting the number of airports within each state, according to pre-defined data intervals and whether the airport itself, contains an air traffic control tower.
 * OpenStreetMap basemap was used and GeoJSON data loaded via the Leaflet ajax plugin.
 * User is able click on airplane icons courtesy of Font Awesome to determine the abbreviated name of an air traffic control tower. 
