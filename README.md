@@ -42,6 +42,9 @@
 * Published and narrated our findings using the flexible and easy-to-build features of ArcGIS StoryMaps.
 * Our research revealed geographic variability and patterns of seasonality with slight fluctuations.
   <ul><li>West, southwest and especially north Seattle, experienced shifts in crime incidents and density.</li></ul>
+  <ul><li>Based on data, summer appears to the season with the most activity.</li></ul>
+  <ul><li>Regardless of season, downtown Seattle and its neighboring areas exhibit statistically significant hot spots throughout the year for all three crime types.</li></ul>
+
 
 # Web Development and Design
 ***
