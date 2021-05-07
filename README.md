@@ -89,4 +89,4 @@
 * Pursued a passion of mine by working closely with a mentor to develop an undergraduate research project.
 * Presented my work on campus in front of administration, faculty staff and fellow students.
 * 2014 - 2015 Honors participant at Shoreline Community College
-* The 3-quarter rigorous program allowed me to improve on my research, presentation and writing skills, further develop critical thinking and look into the intersection of big data and privacy.
+* This rigorous program allowed me to improve on my research, presentation and writing skills, as well as, further develop critical thinking and analyze the complex intersection of big data and privacy.
