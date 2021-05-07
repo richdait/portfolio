@@ -36,8 +36,7 @@
   <ul><li>Data aggregation</li></ul>
   <ul><li>Data exploration</li></ul>
   <ul><li>Data wrangling</li></ul>
-  <ul><li>Data visualization: My part - a responsive and interactive data table with annotation answering the question, what extent does low income and location
-have an effect on access to fresh and nutritious food?</li></ul>
+  <ul><li>Data visualization: My part - a responsive and interactive data table with annotation answering the question, what extent does low income and location have an effect on access to fresh and nutritious food?</li></ul>
 
 ##### Check [repository](https://github.com/richdait/INFO-201-Final-Project) for a detailed project description and associated files.
 
