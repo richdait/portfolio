@@ -41,7 +41,7 @@
 * Utilized ArcGIS Pro to produce compelling maps and data visualizations.
 * Published and narrated our findings using the flexible and easy-to-build features of ArcGIS StoryMaps.
 * Our research revealed geographic variability and patterns of seasonality with slight fluctuations.
-<ul><li>West, southwest and especially north Seattle, experienced shifts in crime incidents and density.</li></ul>
+  <ul><li>West, southwest and especially north Seattle, experienced shifts in crime incidents and density.</li></ul>
 
 # Web Development and Design
 ***
