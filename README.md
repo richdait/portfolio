@@ -3,7 +3,7 @@
 
 ## Project 1: **[Report on Crime in Boston](https://richdait.github.io/Extra-Credit---Crime-in-Boston/)**
 * Created a report via time series data with a minimum of 1000 observations for crime in Boston.
-* Inserted R script with code into an R markdown document to display findings and analysis.
+* Inserted R script with code into an R markdown document to display findings and a summary.
 * Data wrangling functions via dplyr package:
   <ul> 1. Grouped by incident no. </ul>
   <ul> 2. Filtered the data frame to only include offense type "ARSON" </ul>
