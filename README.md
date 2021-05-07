@@ -73,6 +73,7 @@
 * Generated and read map tiles through QGIS.
 * Users are able to interact with the site via 3 radio buttons of basemaps and 4 overlays.
 * One thing I learned from this project is that something as simple as implementing UI controls, increases user engagement.
+
 ##### Check [respository](https://github.com/richdait/Socioeconomic_Index_and_Seahawks_Tile_Sets) for a detailed project description and associated files.
 
 ## Project 7: **[Interactive Web Application of the Number of Airports in the U.S.](https://richdait.github.io/lab4_WebMapApp/)**
