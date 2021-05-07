@@ -85,7 +85,8 @@
 
 ##### Check [repository](https://github.com/richdait/lab4_WebMapApp) for a detailed project description and associated files.
 
-# MISCELLANEOUS
+# Miscellaneous
+***
 
 ## Project 8: **[Preservation of Privacy in the World of Big Data](https://www.youtube.com/watch?v=S07sP91-2F8)**
 * Pursued a passion of mine by working closely with a mentor to develop an undergraduate research project.
