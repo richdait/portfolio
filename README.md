@@ -19,13 +19,13 @@
 ## Project 2: **[Food Accessibility in Washington State: You Are What You Eat](https://richiea7uwinfo.shinyapps.io/Food_Accessibility/)**
 * Investigated whether or not socio-economic factors such as income, distance and transportation have an impact on accessibility to fresh and nutritious food in Washington State.
 * Extracted, manipulated and wrangled data from the United States Department of Agriculture Economic Research Service website.
-* Identified direct and indirect stakeholders.
 * Collaborated with 3 other members to conduct research, produce code in R and generate an interactive shiny web application.
 * Data science processes and techniques:
   <ul><li>Data aggregation</li></ul>
   <ul><li>Data exploration</li></ul>
   <ul><li>Data wrangling</li></ul>
   <ul><li>Data visualization: My part - a responsive and interactive data table with annotation answering the question, what extent does low income and location have an effect on access to fresh and nutritious food?</li></ul>
+* Socioeconomic factors such as transportation and income, indeed play at role in the accessibility of fresh and nutritious food. Low income families who are below the 200% federal income poverty level, unfortunately, are most impacted. While lack of transportation and income are barriers, distance compounds inaccessibility even more.
 
 ##### Check [repository](https://github.com/richdait/INFO-201-Final-Project) for a detailed project description and associated files.
 
