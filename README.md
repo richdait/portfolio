@@ -36,6 +36,8 @@
 
 ##### Check [respository](https://github.com/richdait/Final_Project_Poverty) for a detailed project description and associated files.
 
+## Project 4: **[The Geography and Seasonality of Crime in Seattle, WA](https://arcg.is/H0DL5)**
+
 # Web Development and Design
 ***
 ## Project 7: **[Hangry in Seattle](https://richdait.github.io/)**
