@@ -8,7 +8,7 @@
   <ul> <li> Created new variables via the mutate function. </li>
   <li> Selected rows via filter() to equal desired conditions. </li>
   <li> Utilized the group_by function to compare the controlled and treated groups, before and after the program was implemented. </li>
-  <li> Produced a new dataframe to summarize the average school attendance of participants, of the treatment and control groups, before and after the implementation of the Progresa program.</li> </ul>
+  <li> Produced a new dataframe to summarize the average school attendance of the participants for both the treatment and control groups, before and after the implementation of the Progresa program.</li> </ul>
 
 ## Project 2: **[Report on Crime in Boston](https://richdait.github.io/Extra-Credit---Crime-in-Boston/)**
 * Created a report via time series data with a minimum of 1000 observations for crime in Boston.
