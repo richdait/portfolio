@@ -23,7 +23,12 @@
   <ul> 3. Added point data (Long, Lat) of locations where arson happened on the map.</ul>
 * The project provided valuable insights into forecasting criminal activities, that may result in improving policies and BPD decision-making.
 
-##### Check [repository](https://github.com/richdait/Extra-Credit---Crime-in-Boston) for a detailed project description and associated files.
+##### Check [respository](https://github.com/richdait/Extra-Credit---Crime-in-Boston) for a detailed project description and associated files.
+
+## Project 3: **[Food Accessibility in Washington State: You Are What You Eat](https://richiea7uwinfo.shinyapps.io/Food_Accessibility/)
+* The purpose of the project is investigate a real-world problem using data science methodologies. I successfully collaborated with 3 other members to produce an interactive shiny web application via R. It involved the use of data aggregation, data exploration, data wrangling and a creative UI design.
+
+##### Check [repository](https://github.com/richdait/INFO-201-Final-Project) for a detailed project description and associated files.
 
 # GIS Data Analysis and/or Spatial Statistics
 ***
