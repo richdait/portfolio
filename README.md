@@ -42,7 +42,10 @@
 
 # GIS Data Analysis and/or Spatial Statistics
 ***
-## Project 4: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)**
+## Project 6: **[Analyzing the Relationship Between Average Life Expectancy and
+Environmental Factors in the United States Using Multiple Regression and Geographically Weighted Analysis via ArcGIS Pro]()**
+
+## Project 5: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)**
 * Created an interactive digital application, illustrating a real-world problem and critically analyzing its implications on society.
 * Users are able to interact with the dashboard by clicking on a census tract polygon, which displays an associated poverty percentage.
 * Procured shapefile from Seattle Open Data Portal and converted it to GeoJSON via QGIS.
@@ -51,7 +54,7 @@
 
 ##### Check [respository](https://github.com/richdait/Final_Project_Poverty) for a detailed project description and associated files.
 
-## Project 5: **[The Geography and Seasonality of Crime in Seattle, WA](https://arcg.is/H0DL5)**
+## Project 6: **[The Geography and Seasonality of Crime in Seattle, WA](https://arcg.is/H0DL5)**
 * Collaborated with two other geography researchers to conduct a spatial temporal analysis of crime in Seattle, WA.
 * Utilized ArcGIS Pro to produce compelling optimized hot spot analysis maps.
 * Published and narrated our findings using the flexible and easy-to-build features of ArcGIS StoryMaps.
