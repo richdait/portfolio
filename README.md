@@ -83,3 +83,9 @@
 * The project taught me that choosing the right color scheme is important as it brings to light, the highest and lowest values in the dataset. Additionally, it makes the map more appealing and raises possible questions with the user.
 
 ##### Check [repository](https://github.com/richdait/lab4_WebMapApp) for a detailed project description and associated files.
+
+## Project 8: **[Preservation of Privacy in the World of Big Data](https://www.youtube.com/watch?v=S07sP91-2F8)**
+* Pursued a passion of mine by working closely with a mentor to develop an undergraduate research project.
+* Presented my work on campus in front of administration, faculty staff and fellow students.
+* 2014 - 2015 Honors participant at Shoreline Community College
+* The 3-quarter rigorous program allowed me to refine my research skills, further develop critical thinking and look into the intersection of big data and privacy.
