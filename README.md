@@ -38,8 +38,9 @@
 
 ## Project 4: **[The Geography and Seasonality of Crime in Seattle, WA](https://arcg.is/H0DL5)**
 * Collaborated with two other geography researchers to conduct a spatial temporal analysis of crime in Seattle, WA.
-* Utilized ArcGIS Pro to produce maps and data visualizations.
-* Published and narrated our compelling findings using the flexible and easy-to-build features of ArcGIS StoryMaps.
+* Utilized ArcGIS Pro to produce compelling maps and data visualizations.
+* Published and narrated our findings using the flexible and easy-to-build features of ArcGIS StoryMaps.
+* Our research revealed spatial components and patterns of seasonality with slight fluctuations.
 
 # Web Development and Design
 ***
