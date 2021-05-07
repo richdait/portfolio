@@ -26,7 +26,7 @@
 ##### Check [repository](https://github.com/richdait/Extra-Credit---Crime-in-Boston) for a detailed project description and associated files.
 
 # GIS Data Analysis and/or Spatial Statistics
-* Collaborated with two other fine geographers to investigate the spatial and seasonal variability of crime in Seattle, WA.
+* Collaborated with two other geographic researchers to investigate the spatial and seasonal variability of crime in Seattle, WA.
 ## Project 3: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)**
 * Created an interactive digital application, illustrating a real-world problem and critically analyzing its implications on society.
 * Users are able to interact with the dashboard by clicking on a census tract polygon, which displays an associated poverty percentage.
