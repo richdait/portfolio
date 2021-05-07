@@ -42,7 +42,7 @@
 
 # GIS Data Analysis and/or Spatial Statistics
 ***
-## Project 6: **[Analyzing the Relationship Between Average Life Expectancy and Environmental Factors in the United States Using Multiple Regression and Geographically Weighted Analysis via ArcGIS Pro]()**
+## Project 4: **[Analyzing the Relationship Between Average Life Expectancy and Environmental Factors in the United States Using Multiple Regression and Geographically Weighted Analysis via ArcGIS Pro]()**
 
 ## Project 5: **[Smart Dashboard Illustrating the Spatial Variation of Poverty in Seattle](https://richdait.github.io/Final_Project_Poverty/poverty)**
 * Created an interactive digital application, illustrating a real-world problem and critically analyzing its implications on society.
