@@ -28,7 +28,16 @@
 ##### Check [respository](https://github.com/richdait/Extra-Credit---Crime-in-Boston) for a detailed project description and associated files.
 
 ## Project 3: **[Food Accessibility in Washington State: You Are What You Eat](https://richiea7uwinfo.shinyapps.io/Food_Accessibility/)**
-* The purpose of the project is investigate a real-world problem using data science methodologies. I successfully collaborated with 3 other members to produce an interactive shiny web application via R. It involved the use of data aggregation, data exploration, data wrangling and a creative UI design.
+* Investigated whether or not socio-economic factors such as income, distance and transportation have an impact on accessibility to fresh and nutritious food in Washington State.
+* Extracted, manipulated and wrangled data from the United States Department of Agriculture Economic Research Service website.
+* Identified direct and indirect stakeholders.
+* Collaborated with 3 other members to conduct research, produce code in R and generate an interactive shiny web application.
+* Data science processes and techniques:
+<ul><li>Data aggregation</li></ul>
+<ul><li>Data exploration</li></ul>
+<ul><li>Data wrangling</li></ul>
+<ul><li>Data visualization: My part - a responsive and interactive data table with annotation answering the question, what extent does low income and location
+have an effect on access to fresh and nutritious food?</li></ul>
 
 ##### Check [repository](https://github.com/richdait/INFO-201-Final-Project) for a detailed project description and associated files.
 
