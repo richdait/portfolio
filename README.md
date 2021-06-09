@@ -47,7 +47,7 @@
 * Published and narrated our findings using the flexible and easy-to-build features of ArcGIS StoryMaps.
 * Our research revealed geographic variability and patterns of seasonality with slight fluctuations.
   <ul><li>West, southwest and especially north Seattle, experienced shifts in crime incidents and density.</li></ul>
-  <ul><li>Based on data, summer appears to the season with the most activity.</li></ul>
+  <ul><li>Based on data, summer appears to be the season with the most activity.</li></ul>
   <ul><li>Regardless of season, downtown Seattle and its neighboring areas exhibit statistically significant hot spots throughout the year for all three crime types.</li></ul>
   <ul><li>"An Optimized Hot Spot Analysis is Worth A Thousand Words" section was my part of the project.</li></ul>
 * This particular project demonstrated that I am able to work effectively and communicate well in a team environment, whether in person or remotely via Zoom. Another big takeaway is my ability to collect, analyze and interpret data, and ultimately relay the findings through a powerful story using GIS based technologies. Lastly, the demands of the final project, in conjunction with the challenges of taking four grueling courses during my final quarter as an undergraduate, proved that I am more than capable of overcoming any obstacle or adversity, through sustained, genuine effort, grit and resilience. Of course, the final project was not made possible without the equal contribution, diligence and creative inputs of my fellow geographers.
