@@ -45,7 +45,7 @@
 * Collaborated with two other geography researchers to conduct a spatial temporal analysis of crime in Seattle, WA.
 * Utilized ArcGIS Pro to produce compelling optimized hot spot analysis maps.
 * Published and narrated our findings using the flexible and easy-to-build features of ArcGIS StoryMaps.
-* Our research revealed geographic patterns and seasonal variation with slight fluctuations.
+* Our research revealed geographic patterns and seasonal variability with slight fluctuations.
   <ul><li>West, southwest and especially north Seattle, experienced shifts in crime incidents and density.</li></ul>
   <ul><li>Based on data, summer appears to be the season with the most activity.</li></ul>
   <ul><li>Regardless of season, downtown Seattle and its neighboring areas exhibit statistically significant hot spots throughout the year for all three crime types.</li></ul>
